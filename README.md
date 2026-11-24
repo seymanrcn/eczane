@@ -24,5 +24,5 @@ Hastalar, İlaçlar, Güvenceler ve Satışlar olmak üzere 4 tablo.
 ## Dokümantasyon
 Gereksinim analizi, ER şemaları, işlevsel bağımlılıklar, normalizasyon adımları,
 DDL komutları, SQL sorguları ve uygulama ekran görüntüleri için:
-**[Proje Raporu (PDF)](docs/Veritabani_Sistemleri_Rapor.pdf)**
+Veritabanı_Sistemleri_Rapor
 
